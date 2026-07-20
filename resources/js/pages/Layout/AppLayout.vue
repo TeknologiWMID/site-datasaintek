@@ -43,7 +43,7 @@ const isSubmenuActive = (submenu) => {
           <!-- Logo -->
           <Link href="/" class="flex items-center">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Data_dan_Teknologi_WMID_-_Warna.svg"
-            alt="Data & Teknologi Wikimedia Indonesia" class="h-16 md:h-20 w-auto" />
+            alt="Data, Sains & Teknologi Wikimedia Indonesia" class="h-16 md:h-20 w-auto" />
           </Link>
 
           <!-- Desktop Navigation - Aligned Right -->
@@ -163,7 +163,7 @@ const isSubmenuActive = (submenu) => {
             <!-- Container untuk kedua logo -->
             <div class="flex items-center gap-4 mb-6">
               <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Data_dan_Teknologi_WMID_-_Warna.svg"
-                alt="Data & Teknologi Wikimedia Indonesia" class="h-24 w-auto" />
+                alt="Data, Sains & Teknologi Wikimedia Indonesia" class="h-24 w-auto" />
               <a href="https://wikimedia.or.id" target="_blank" rel="noopener noreferrer"
                 class="transition-transform hover:scale-105">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Wikimedia-logo-id.svg"
@@ -172,7 +172,7 @@ const isSubmenuActive = (submenu) => {
             </div>
 
             <p class="text-gray-700 leading-relaxed">
-              Data dan Teknologi adalah salah satu program <a href="https://wikimedia.or.id" target="_blank"
+              Data, Sains dan Teknologi adalah salah satu program <a href="https://wikimedia.or.id" target="_blank"
                 class="text-blue-600 hover:underline">Wikimedia Indonesia</a> yang bertujuan memperkenalkan dan
               memfasilitasi penggunaan proyek-proyek teknologi Wikimedia, termasuk Wikidata, di Indonesia.
             </p>

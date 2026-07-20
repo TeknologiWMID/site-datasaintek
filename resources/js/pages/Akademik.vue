@@ -15,7 +15,7 @@ const programs = [
   },
   {
     title: 'Pemagangan',
-    description: 'Pemagangan adalah program pembelajaran berbasis praktik yang memberi kesempatan bagi peserta untuk mengenal dan berkontribusi langsung pada ekosistem Wikidata. Melalui kegiatan ini, peserta dapat mengembangkan keterampilan teknis, memahami konsep data terbuka terhubung, serta berkontribusi pada proyek-proyek teknologi Wikimedia dengan bimbingan dari tim Data dan Teknologi.',
+    description: 'Pemagangan adalah program pembelajaran berbasis praktik yang memberi kesempatan bagi peserta untuk mengenal dan berkontribusi langsung pada ekosistem Wikidata. Melalui kegiatan ini, peserta dapat mengembangkan keterampilan teknis, memahami konsep data terbuka terhubung, serta berkontribusi pada proyek-proyek teknologi Wikimedia dengan bimbingan dari tim Data, Sains dan Teknologi.',
     image: '/program/pemagangan.jpg'
   }
 ];
@@ -43,7 +43,7 @@ const programs = [
               Akademik
             </h1>
             <p class="text-sm md:text-base lg:text-lg text-white/90 leading-relaxed">
-              Akademik merupakan kluster kegiatan yang diselenggarakan oleh Tim Data dan Teknologi yang dibangun melalui kerjasama dengan komunitas akademisi di perguruan tinggi. Saat ini kami menyelenggarakan tiga kegiatan.
+              Akademik merupakan kluster kegiatan yang diselenggarakan oleh Tim Data, Sains dan Teknologi yang dibangun melalui kerjasama dengan komunitas akademisi di perguruan tinggi. Saat ini kami menyelenggarakan tiga kegiatan.
             </p>
           </div>
         </div>

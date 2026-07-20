@@ -49,7 +49,7 @@ const programs = [
             </h1>
             <p class="text-sm md:text-base lg:text-lg text-white/90 leading-relaxed">
               WikiLatih merupakan kegiatan pengenalan dan pelatihan penyuntingan berbagai proyek Wikimedia. 
-              WikiLatih yang diselenggarakan oleh Tim Data dan Teknologi terdiri dari dua bentuk pelatihan, 
+              WikiLatih yang diselenggarakan oleh Tim Data, Sains dan Teknologi terdiri dari dua bentuk pelatihan, 
               yaitu WikiLatih Reguler dan WikiLatih Daring.
             </p>
           </div>

@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Data dan Teknologi Wikimedia Indonesia'),
+    'name' => env('APP_NAME', 'Data, Sains dan Teknologi Wikimedia Indonesia'),
 
     /*
     |--------------------------------------------------------------------------

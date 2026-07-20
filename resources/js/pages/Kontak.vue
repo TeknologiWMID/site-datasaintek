@@ -100,7 +100,7 @@ const handleSubmit = () => {
                             Kirim Pesan
                         </h2>
                         <p class="text-gray-700 leading-relaxed text-lg mb-6">
-                            Anda dan institusi Anda tertarik bekerja sama? Tim Data dan Teknologi Wikimedia Indonesia
+                            Anda dan institusi Anda tertarik bekerja sama? Tim Data, Sains dan Teknologi Wikimedia Indonesia
                             sangat terbuka dengan berbagai bentuk kolaborasi. Silahkan hubungi kami, baik berupa
                             pertanyaan atau sekadar menyapa.
                         </p>
@@ -260,7 +260,7 @@ const handleSubmit = () => {
                         <div class="bg-white p-8 rounded-lg shadow-md">
                             <div class="text-[#3D8FCF] text-5xl font-bold mb-4">3.</div>
                             <p class="text-gray-700 leading-relaxed">
-                                Kolaborasi data dan teknologi berupa kontribusi data maupun pereferensian data dari
+                                Kolaborasi data, sains dan teknologi berupa kontribusi data maupun pereferensian data dari
                                 repositori institusi ke Wikidata.
                             </p>
                         </div>

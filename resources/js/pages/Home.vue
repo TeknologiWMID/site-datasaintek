@@ -35,7 +35,7 @@ onUnmounted(() => {
 </script>
 
 <template>
-  <Head title="Data dan Teknologi" />
+  <Head title="Data, Sains dan Teknologi" />
   <AppLayout>
     <!-- Hero Section with Fullscreen Slider -->
     <section class="relative h-screen w-full overflow-hidden">
@@ -55,7 +55,7 @@ onUnmounted(() => {
       <div
         class="absolute inset-0 flex flex-col items-center justify-center px-8 md:px-16 text-center z-10 -mt-16 md:-mt-20">
         <h1 class="text-5xl md:text-6xl lg:text-6xl xl:text-7xl font-bold text-white mb-6 md:mb-8 leading-tight">
-          Data dan Teknologi<br>Wikimedia Indonesia
+          Data, Sains dan Teknologi<br>Wikimedia Indonesia
         </h1>
         <p class="text-lg md:text-xl lg:text-2xl text-white/95 leading-relaxed max-w-4xl mb-10 md:mb-12">
           Program dari <a href="https://wikimedia.or.id" target="_blank"
@@ -295,7 +295,7 @@ onUnmounted(() => {
               juga berfokus pada penerjemahan butir-butir Wikidata lain ke dalam bahasa Indonesia.
             </p>
             <p class="text-lg leading-relaxed mb-6">
-              Tim Data dan Teknologi Wikimedia Indonesia berupaya mendukung perkembangan komunitas kontributor Wikidata
+              Tim Data, Sains dan Teknologi Wikimedia Indonesia berupaya mendukung perkembangan komunitas kontributor Wikidata
               di Indonesia.
             </p>
             <p class="text-lg leading-relaxed mb-8">

@@ -38,7 +38,7 @@ const programs = [
               Kompetisi
             </h1>
             <p class="text-sm md:text-base lg:text-lg text-white/90 leading-relaxed">
-              Kompetisi merupakan kluster kegiatan yang diselenggarakan oleh Tim Data dan Teknologi yang berhubungan dengan kompetisi penyuntingan di Wikidata. Saat ini kami menyelenggarakan dua kegiatan.
+              Kompetisi merupakan kluster kegiatan yang diselenggarakan oleh Tim Data, Sains dan Teknologi yang berhubungan dengan kompetisi penyuntingan di Wikidata. Saat ini kami menyelenggarakan dua kegiatan.
             </p>
           </div>
         </div>
